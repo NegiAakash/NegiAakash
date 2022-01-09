@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<h3 align="center">I like building stuff and thats why I did engineering.</h3>
+<h3 align="center">A passionate software developer from India and I like building stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negiaakash&label=Profile%20views&color=0e75b6&style=flat" alt="negiaakash" /> </p>
 
